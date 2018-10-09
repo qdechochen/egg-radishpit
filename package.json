@@ -1,0 +1,21 @@
+{
+  "name": "egg-radishpit",
+  "description": "egg radishpit plugin",
+  "version": "0.1.1",
+  "eggPlugin": {
+    "name": "radishpit"
+  },
+  "dependencies": {
+    "radishpit": "^0.3.16"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qdechochen/egg-radishpit.git"
+  },
+  "files": [
+    "app.js",
+    "config",
+    "app",
+    "lib"
+  ]
+}
