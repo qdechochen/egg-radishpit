@@ -1,12 +1,12 @@
 {
   "name": "egg-radishpit",
   "description": "egg radishpit plugin",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "eggPlugin": {
     "name": "radishpit"
   },
   "dependencies": {
-    "radishpit": "^1.0.0"
+    "radishpit": "^1.0.6"
   },
   "repository": {
     "type": "git",
